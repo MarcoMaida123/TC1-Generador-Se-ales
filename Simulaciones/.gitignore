@@ -1,3 +1,14 @@
-.raw
-.log
+# Archivos de simulaciones SPICE y datos pesados
+*.raw
+*.log
 
+# Archivos temporales
+*.tmp
+*.temp
+
+# Archivos comprimidos
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
